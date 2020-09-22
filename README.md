@@ -16,7 +16,7 @@ Welcome to the official documentation for Tella! Use the contents pane or the li
   * [Privacy](security/privacy.md)
   * [Open source](security/open-source.md)
 * **Deploying Tella**
-  * \*\*\*\*[Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
+  * [Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
   * [Test Tella](deploying-tella/test-tella.md)
 * **More**
   * [Release/changelogs](more/release-logs.md)

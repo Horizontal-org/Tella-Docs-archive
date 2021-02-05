@@ -1,6 +1,6 @@
 # Choosing the right documentation method
 
-Tella can be used by individuals to protect themselves, but is often deployed by groups and organizations to collect data on a large scale. Because organizations have different documentation needs and varying levels of financial and technical capacity, Tella supports three different methods to collect data and document events. Before deploying Tella, it is important to identify which method best fits the organization's needs and capacity. If you are unsure, or if you need support deploying the different methods outlined below, contact us at contact@wearehorizontal.org. 
+Tella can be used by individuals to protect themselves, but is often deployed by groups and organizations to collect data on a large scale. Because organizations have different documentation needs and varying levels of financial and technical capacity, Tella supports three different methods to collect data and document events. Before deploying Tella, it is important to identify which method best fits the organization's needs and capacity. If you are unsure, or if you need support deploying the different methods outlined below, contact us at contact@tella-app.org. 
 
 Here is a summary of the three documentation methods available:
 

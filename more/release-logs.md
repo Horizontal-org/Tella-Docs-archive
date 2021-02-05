@@ -4,6 +4,19 @@ description: This page summarizes the main changes to Tella for Android
 
 # Releases/changelogs
 
+### Tella 1.7 -- 10 January 2021
+
+GENERAL
+
+* New languages: Burmese, Malayalam, Tamil, Kannada 
+
+CAMERA
+
+* Select your preferred resolution when recording a video
+* A new grid in the camera helps you compose the best photos.
+
+###  
+
 ### Tella 1.5 -- 25 May 2019
 
 GENERAL:

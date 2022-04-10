@@ -106,7 +106,6 @@ Weill work to ensure your safety, privacy, and the confidentiality of the report
 Raphael Mimoun (executive director):
 * Email: raphael@hzontal.org
 * Public Key (for PGP encrypted email): 0x3F1B2FDD
-* Signal: +1 (202) 322-3939
 
 In your report please include:
 

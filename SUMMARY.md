@@ -2,23 +2,26 @@
 
 * [Tella - Document & Protect](README.md)
 
-## General <a id="general-1"></a>
+## General <a href="#general-1" id="general-1"></a>
 
 * [Tella in a nutshell](general-1/tella-in-a-nutshell.md)
 * [Use cases](general-1/what-is-tella-used-for.md)
 
 ## Features
 
-* [Secure container](features/encryption.md)
+* [Encryption](features/encryption.md)
 * [Camouflage](features/camouflage.md)
-* [Data collection](features/documentation-and-data-collection.md)
+* [File management](features/file-management.md)
 * [Wipe data](features/panic-button.md)
+* [Camera](features/camera.md)
+* [Audio recorder](features/audio-recorder.md)
 * [Verification](features/verification.md)
+* [Data collection](features/documentation-and-data-collection.md)
 
 ## Security
 
-* [Security](security/how-secure-is-whistler.md)
-* [Privacy](security/privacy.md)
+* [Security & Privacy](security/how-secure-is-whistler.md)
+* [Risks and limitations](security/risks-and-limitations.md)
 * [Open source](security/open-source.md)
 
 ## Deploying Tella
@@ -41,4 +44,3 @@
 ## Legal
 
 * [Privacy Policy](legal/privacy-policy.md)
-

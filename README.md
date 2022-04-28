@@ -1,6 +1,8 @@
 # Tella - Document & Protect
 
-Welcome to the official documentation for Tella! Use the contents pane or the links below to get started.
+Welcome to the official documentation for Tella!&#x20;
+
+Use the contents pane or the links below to get started.
 
 * **General**
   * [Tella in a nutshell](general-1/tella-in-a-nutshell.md)
@@ -13,14 +15,13 @@ Welcome to the official documentation for Tella! Use the contents pane or the li
   * [Verification](features/verification.md)
 * **Security**
   * [Security](security/how-secure-is-whistler.md)
-  * [Privacy](security/privacy.md)
+  * [Privacy](broken-reference)
   * [Open source](security/open-source.md)
 * **Deploying Tella**
-  * \*\*\*\*[Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
+  * ****[Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
   * [Test Tella](deploying-tella/test-tella.md)
 * **More**
   * [Release/changelogs](more/release-logs.md)
   * [FAQ](more/faq/)
 * **Legal**
   * [Privacy Policy](legal/privacy-policy.md)
-

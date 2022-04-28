@@ -7,4 +7,3 @@ Currently, Tella is available in:
 * Spanish
 
 If you’d like to see Tella translated in another language, or if you’d like to help us translate, contact us [here](https://hzontal.org/contact).
-

@@ -17,5 +17,5 @@ Tella has three main objectives:
 You can get Tella for Android:
 
 * On the [Google Play Store](https://play.google.com/store/apps/details?id=org.hzontal.tella)
-* By downloading the APK directly from us [here](https://web.tresorit.com/l/E8JTG#yRwXD0s6RzRlYOuwg7ToqQ)
+* By downloading the APK directly from us [here](https://web.tresorit.com/l/qVStY#S67Ba-adBLc1y-iFpmWcCA)
 

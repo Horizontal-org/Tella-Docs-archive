@@ -26,7 +26,7 @@
 
 ## Deploying Tella
 
-* [Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
+* [\[Out-of-date\] Choosing the right documentation method](deploying-tella/choosing-the-right-documentation-method.md)
 * [Test Tella's form-based data collection](deploying-tella/test-tella.md)
 
 ## More

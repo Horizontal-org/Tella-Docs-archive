@@ -4,7 +4,7 @@ Tella allows users to manage files and folders in a similar way they would do on
 
 In Tella, users can:
 
-* Store any file, including photos, videos, audio files, and documents. Formats supported include:&#x20;
+* Store any file, including photos, videos, audio files, and documents.
 * Create folders and subfolders.
 * Move files into folders and from one folder to another.
 * Import files from their device. Files are automatically encrypted when imported into Tella.

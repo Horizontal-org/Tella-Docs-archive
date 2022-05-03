@@ -20,7 +20,7 @@
 
 ## Security
 
-* [Security & Privacy](security/how-secure-is-whistler.md)
+* [\[Out-of-date\] Security & Privacy](security/how-secure-is-whistler.md)
 * [Risks and limitations](security/risks-and-limitations.md)
 * [Open source](security/open-source.md)
 

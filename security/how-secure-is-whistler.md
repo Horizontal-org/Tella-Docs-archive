@@ -1,4 +1,6 @@
-# Security & Privacy
+# \[Out-of-date] Security & Privacy
+
+## THIS PAGE IS OUT OF DATE AND WILL BE UPDATED IN MAY 2022
 
 ## Security
 

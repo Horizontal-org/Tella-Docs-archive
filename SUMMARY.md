@@ -31,7 +31,7 @@
 
 ## More
 
-* [Releases/changelogs](more/release-logs.md)
+* [\[Out-of-date\] Releases/changelogs](more/release-logs.md)
 * [FAQ](more/faq/README.md)
   * [Where can I get Tella?](more/faq/where-can-i-get-tella.md)
   * [What language is Tella available in?](more/faq/what-language-is-tella-available-in.md)

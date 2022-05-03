@@ -2,7 +2,9 @@
 description: This page summarizes the main changes to Tella for Android
 ---
 
-# Releases/changelogs
+# \[Out-of-date] Releases/changelogs
+
+## THIS PAGE IS OUT OF DATE AND WILL BE UPDATED IN THE COMING DAYS
 
 ### Tella 1.7 -- 10 January 2021
 

@@ -13,8 +13,8 @@
 * [Camouflage](features/camouflage.md)
 * [File management](features/file-management.md)
 * [Wipe data](features/panic-button.md)
-* [Camera](features/camera.md)
-* [Audio recorder](features/audio-recorder.md)
+* [Camera \[WIP\]](features/camera-wip.md)
+* [Audio recorder \[WIP\]](features/audio-recorder-wip.md)
 * [Verification](features/verification.md)
 * [Data collection](features/documentation-and-data-collection.md)
 

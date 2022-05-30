@@ -4,7 +4,7 @@ description: A short overview of Tella
 
 # Tella in a nutshell
 
-Tella is a documentation app for Android.&#x20;
+Tella is a documentation app for mobile.
 
 In challenging environments--with limited or no internet connectivity or in the face of repression--Tella makes it easier and safer to document events, whether that’s violence, human rights violations, corruption, or electoral fraud.
 
@@ -18,4 +18,6 @@ You can get Tella for Android:
 
 * On the [Google Play Store](https://play.google.com/store/apps/details?id=org.hzontal.tella)
 * By downloading the APK directly [from us here](https://web.tresorit.com/l/JgMjK#FV9IoIZdDxwAUPqtupJzsQ)
+
+We are actively working on Tella for iOS and will release a first version in June 2022.
 

@@ -4,7 +4,7 @@ All of the content and data stored in Tella are encrypted.&#x20;
 
 This means that unless the app is unlocked all the data will remain inaccessible to someone seizing or searching the device.&#x20;
 
-Upon installing the app, the user decides which lock method they would like to use (a six-point pattern, a PIN, or a password) and sets their lock. The app cannot be opened without the lock.
+Upon installing the app, the user decides which lock method they would like to use. For Android, the user can use a six-point pattern, a PIN, or a password. For iOS, they can use a PIN or a password. The app cannot be opened without the lock.
 
 {% hint style="info" %}
 WARNING: if the user forgets their lock, there is no way of gaining access to the app and retrieving its content
